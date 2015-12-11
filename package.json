@@ -1,7 +1,7 @@
 {
   "name": "generator-lightning",
   "version": "0.0.2",
-  "description": "y",
+  "description": "Yeoman generator for Angular component based directives",
   "homepage": "http://subpx.github.io",
   "author": {
     "name": "Subpx",
@@ -11,7 +11,7 @@
   "files": [
     "generators"
   ],
-  "main": "generators/index.js",
+  "main": "generators/app/index.js",
   "keywords": [
     "yeoman-generator"
   ],
