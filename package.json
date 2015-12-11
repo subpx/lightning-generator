@@ -1,11 +1,11 @@
 {
   "name": "generator-lightning",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "y",
-  "homepage": "",
+  "homepage": "http://subpx.github.io",
   "author": {
-    "name": "Thomas Hynard",
-    "email": "tomhynard@gmail.com",
+    "name": "Subpx",
+    "email": "",
     "url": ""
   },
   "files": [
@@ -30,7 +30,7 @@
     "gulp-plumber": "^1.0.0",
     "gulp-nsp": "^2.1.0"
   },
-  "repository": "",
+  "repository": "https://github.com/subpx/lightning-generator.git",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
