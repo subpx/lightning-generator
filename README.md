@@ -1,5 +1,5 @@
 # generator-lightning [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> y
+> Yeoman generator for Angular component based directives
 
 ## Installation
 
